@@ -13,20 +13,20 @@ This project reads a CSV dataset containing borough codes and street-location in
 
 The source notebook calls these records “connections”; the analysis counts rows grouped by the `boro` column and does not independently measure connectivity.
 
+
 ## Visualizations
 
 ### Borough Distribution Heatmap
 
-
+![Borough distribution heatmap](./assets/borough_heatmap.png)
 
 ### Borough Distribution Pie Chart
 
-
+![Borough distribution pie chart](./assets/connection_pie_chart.png)
 
 ### Interactive Borough Chart
 
-
-[Open the interactive Altair chart](interactive_borough_chart.html) — download and open the HTML file in a browser to interact with the chart.
+[Open the interactive Altair chart](./interactive_borough_chart.html)  — download and open the HTML file in a browser to interact with the chart.
 
 ## Dataset
 
