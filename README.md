@@ -17,19 +17,20 @@ The source notebook calls these records “connections”; the analysis counts r
 
 ### Borough Distribution Heatmap
 
-![Borough distribution heatmap](python_notebooks/assets/borough_heatmap.png)
+
 
 ### Borough Distribution Pie Chart
 
-![Borough distribution pie chart](python_notebooks/assets/connection_pie_chart.png)
+
 
 ### Interactive Borough Chart
 
-[Open the interactive Altair chart](python_notebooks/interactive_borough_chart.html) — download and open the HTML file in a browser to interact with the chart.
+
+[Open the interactive Altair chart](interactive_borough_chart.html) — download and open the HTML file in a browser to interact with the chart.
 
 ## Dataset
 
-The `python_notebooks/locations.csv` file contains **96,030 rows** with the columns `boro`, `order_no`, `main_st`, `from_st`, `to_st`, and `sos`.
+The `locations.csv` file contains **96,030 rows** with the columns `boro`, `order_no`, `main_st`, `from_st`, `to_st`, and `sos`.
 
 | Borough code | Records |
 | --- | ---: |
